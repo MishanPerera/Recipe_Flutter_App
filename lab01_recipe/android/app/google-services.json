@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "757955392650",
+    "project_id": "recipe-project-f257b",
+    "storage_bucket": "recipe-project-f257b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757955392650:android:0658c0c433ee4c45a0a973",
+        "android_client_info": {
+          "package_name": "com.example.lab01_recipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757955392650-7t29ejui80fhp0a0eeu368u6av55315m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuNRk5WC5sJ6r8soB-La1GMmZddJ9UBF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757955392650-7t29ejui80fhp0a0eeu368u6av55315m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "757955392650-oghbsk3rq977hvoi9s6fkgjqvk56i4o1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lab01Recipe"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
